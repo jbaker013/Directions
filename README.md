@@ -14,9 +14,9 @@ Whether you have just purchased your first drum set, or have had one for years, 
 
 - A drum key
 - Drums (Bass, Snare, Tom-toms)
--- Included with drums: tension rods, two metal rings
+  - Included with drums: tension rods, two metal rings
 - Drum heads (Two for each drum)
--- Note: These come with your set, but it is recommended to buy better ones.
+  - These come with your set, but it is recommended to buy better ones.
 - (Optional) A tuning device, like a Drum Dial. Helps with finding exact tension values.
 
 
@@ -30,7 +30,7 @@ Whether you have just purchased your first drum set, or have had one for years, 
 
 ### 2. Preparing the Resonant (Bottom) Head
 - Place drum head onto bottom of drum frame, cover with metal ring, and hand tighten the tension rods until loosely secured in place.
--- To find the bottom side of the drum, look for a company logo on the outer shell. If facing upside down, that is the bottom side.
+  - To find the bottom side of the drum, look for a company logo on the outer shell. If facing upside down, that is the bottom side.
 
 ### 3. Time to Tune
 ##### Note: See Included Image
@@ -41,7 +41,7 @@ Whether you have just purchased your first drum set, or have had one for years, 
 ### 4. Testing for Equal Tension
 - About an inch inward from the tension rod, tap the drum head and listen to the resulting sound.
 - Repeat this at every tension rod in the order of tightening, and make sure the sound is the same.
--- If the sound is uneven at a certain point, loosen or tighten that tension rod and continue testing until all are equal.
+  - If the sound is uneven at a certain point, loosen or tighten that tension rod and continue testing until all are equal.
 
 ### 5. Preparing the Batter (Top) Head
 - Install the batter head in similar fashion to the resonant one, by placing the metal ring over the drum head and hand-tightening the tension rods until loosely secured in place.
@@ -55,8 +55,8 @@ Whether you have just purchased your first drum set, or have had one for years, 
 ### 8. Fine Tuning of the Batter Head
 ##### Note: Continue following the pattern in the image from Step 3 for loosening/tightening.
 - The batter head is responsible for the way the drum rings.
--- If you want your drum to be more punchy, slightly tighten all of the tension rods until it rings less.
---On the other hand, if you want a more ringy sound, loosen all of the tension rods until the sound sustains more.
+  - If you want your drum to be more punchy, slightly tighten all of the tension rods until it rings less.
+  - On the other hand, if you want a more ringy sound, loosen all of the tension rods until the sound sustains more.
 
 ### 9. Fine Tuning of the Resonant Head
 ##### Note: This is personal preference! Test it and see what you like.
