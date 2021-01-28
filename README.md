@@ -14,9 +14,9 @@ Whether you have just purchased your first drum set, or have had one for years, 
 
 - A drum key
 - Drums (Bass, Snare, Tom-toms)
---Included with drums: tension rods, two metal rings
+-- Included with drums: tension rods, two metal rings
 - Drum heads (Two for each drum)
---Note: These come with your set, but it is recommended to buy better ones.
+-- Note: These come with your set, but it is recommended to buy better ones.
 - (Optional) A tuning device, like a Drum Dial. Helps with finding exact tension values.
 
 
