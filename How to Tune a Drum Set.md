@@ -74,4 +74,5 @@ Whether you have just purchased your first drum set, or have had one for years, 
 - This process can be time consuming; be proud of what you did!
 - Mess around, play some songs, and see if everything sounds the way you want it to.
 - If something sounds slightly off, you now know how to fix it!
-![Alt Text](https://media0.giphy.com/media/uKWE6qMrVOEEg/200.gif)
+
+-![Alt Text](https://media0.giphy.com/media/uKWE6qMrVOEEg/200.gif)
