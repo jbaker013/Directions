@@ -1,17 +1,17 @@
 # How to Tune a Drum Set
----
+
 
 
 
 # Introduction
----
+
 Whether you have just purchased your first drum set, or have had one for years, tuning is an amazing skill all drummers should have in their repertoire. By utilizing proper tuning methods, you can completely change the sound of your drum set with ease. No prior experience required.
 
 
 
 
 # Materials
----
+
 - A drum key
 - Drums (Bass, Snare, Tom-toms)
 --Included with drums: tension rods, two metal rings
@@ -21,7 +21,7 @@ Whether you have just purchased your first drum set, or have had one for years, 
 
 
 # Steps
----
+
 #### 1. Preparing to Tune
 ##### Note: If drum heads are not on drum, skip this step
 - Use the drum key to loosen all tension rods on both sides of the drum, until loose enough to be moved by hand.
