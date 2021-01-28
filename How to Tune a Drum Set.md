@@ -26,6 +26,7 @@ Whether you have just purchased your first drum set, or have had one for years, 
 ##### Note: If drum heads are not on drum, skip this step
 - Use the drum key to loosen all tension rods on both sides of the drum, until loose enough to be moved by hand.
 - This allows the tuning process to start from scratch.
+- Skip Steps 2 and 5 as your drum already has the heads on it.
 
 ### 2. Preparing the Resonant (Bottom) Head
 - Place drum head onto bottom of drum frame, cover with metal ring, and hand tighten the tension rods until loosely secured in place.
